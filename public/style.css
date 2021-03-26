@@ -1,0 +1,15 @@
+h1 {
+    margin: auto; 
+    display: block; 
+    text-align: center;
+    font-size: larger;
+}
+h2 {
+    margin: auto; 
+    display: block; 
+    text-align: center;
+    font-size: medium;
+}
+body {
+    background-color: aquamarine;
+}
