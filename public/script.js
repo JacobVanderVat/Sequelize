@@ -43,7 +43,6 @@ async function randomMacros() {
 
   for (let i = 0; i < 10; i++) {
     randomArray.push(getRandomInt(45));
-    console.log(randomArray[i]);
   }
 
   let chart = new CanvasJS.Chart("chartContainer", {
